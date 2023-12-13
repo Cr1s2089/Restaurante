@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Restaurante/static/css/main.36adb5a1.css",
+    "main.js": "/Restaurante/static/js/main.bfff0b63.js",
+    "static/js/787.496d51a4.chunk.js": "/Restaurante/static/js/787.496d51a4.chunk.js",
+    "static/media/h4.jpg": "/Restaurante/static/media/h4.914f325cdbcdeda39a6d.jpg",
+    "static/media/P1.jpg": "/Restaurante/static/media/P1.0b705089082aeec928f8.jpg",
+    "static/media/poll1.jpg": "/Restaurante/static/media/poll1.9c2fb8768b98ea720521.jpg",
+    "static/media/poll3.jpg": "/Restaurante/static/media/poll3.490fc4245094f3525ad4.jpg",
+    "static/media/p2.jpg": "/Restaurante/static/media/p2.dec164c4c9312003dc7b.jpg",
+    "static/media/h1.avif": "/Restaurante/static/media/h1.9ba583825a341c39d6d9.avif",
+    "static/media/h2.jpg": "/Restaurante/static/media/h2.15149a321f5a2dfe1c1f.jpg",
+    "static/media/poll2.jpg": "/Restaurante/static/media/poll2.cec026f8df705017fb71.jpg",
+    "static/media/p4.jpg": "/Restaurante/static/media/p4.a647e441b10f49366121.jpg",
+    "static/media/706944.png": "/Restaurante/static/media/706944.cbfdc117edc2ec21e667.png",
+    "index.html": "/Restaurante/index.html",
+    "main.36adb5a1.css.map": "/Restaurante/static/css/main.36adb5a1.css.map",
+    "main.bfff0b63.js.map": "/Restaurante/static/js/main.bfff0b63.js.map",
+    "787.496d51a4.chunk.js.map": "/Restaurante/static/js/787.496d51a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36adb5a1.css",
+    "static/js/main.bfff0b63.js"
+  ]
+}
